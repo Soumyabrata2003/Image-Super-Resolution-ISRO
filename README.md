@@ -1,5 +1,5 @@
 # [Inter IIT ](https://github.com/jain-girish/isro/)
-
+This is our submission to ISRO's satellite image Super-resolution challenge as part of Inter-IIT Tech Meet 11.0 . We have leveraged ESRGAN to accomplish this task after processing the satellite images given in tiff format.
 
 
 
